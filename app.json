@@ -152,6 +152,15 @@
           "description": "If you don't know what are below entries, simply leave them, Don't fill anything in them.",
 	  "required": false
         }
-      
-    }
+    },
+  "addons":
+    [
+      {
+        "plan": "heroku-postgresql",
+        "options":
+          {
+            "version": "12"
+          }
+      }
+    ]
 }
