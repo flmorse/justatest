@@ -150,7 +150,7 @@
       "BUTTON_FIVE_URL":
 	{
           "description": "If you don't know what are below entries, simply leave them, Don't fill anything in them.",
-	  "required": "false"
+	  "required": "False"
         }
       
     }
