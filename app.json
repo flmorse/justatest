@@ -128,13 +128,13 @@
           "description": "If you want to use shortener in Gdrive and index link, fill shotener url here.",
           "value": "",
 	  "required": "false"
-        }
+        },
       "SHORTENER_API":
 	{
           "description": "Fill your shortener api key if you are using shortener.",
           "value": "",
 	  "required": "false"
-        }
+        },
       "BUTTON_THREE_NAME":
 	{
           "description": "If you don't know what are below entries, simply leave them, Don't fill anything in them.",
